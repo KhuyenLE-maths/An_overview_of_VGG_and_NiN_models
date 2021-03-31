@@ -1,1 +1,1 @@
-# An_overview_of_VGG_and_NiN_models
+# An overview of VGG and NiN models
